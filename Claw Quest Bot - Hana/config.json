@@ -1,0 +1,15 @@
+{
+    "tool_name": "Claw Quest",
+    "threads": 10,
+    "task_enabled": true,
+    "export_excel": true,
+    "repeat_interval": 300,
+    "skip_tutorial_enabled": false,
+    "openclaw_mining_enabled": true,
+    "openclaw_auto_buy_stamina": true,
+    "openclaw_stamina_buy_limit": 0,
+    "skilltree_enabled": true,
+    "pickaxe_enabled": true,
+    "lucky_spin_enabled": true,
+    "connect_wallet_enabled": false
+}
